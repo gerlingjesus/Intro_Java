@@ -17,6 +17,16 @@
 
 // document.write('Coloca tu nombre:')
 
+console.log(typeof 42)
+console.log(typeof 'veinticinco')
+console.log(typeof -666)
+console.log(typeof true)
+console.log(typeof 0)
+console.log(typeof'')
+console.log(typeof null)
+console.log(typeof undefined)
+console.log(typeof false)
+
 // var numero1 = parseInt(prompt('Numero 1:'))
 // var numero2 = parseInt(prompt('Numero 2:'))
 // var numero3 = parseInt(prompt('Numero 3:'))
